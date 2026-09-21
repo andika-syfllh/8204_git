@@ -1,0 +1,5 @@
+Nama saya : Andika Syafulloh Yusuf
+1. sekarang create directori
+2. commit pertama
+3. push pertama
+4. push kedua
